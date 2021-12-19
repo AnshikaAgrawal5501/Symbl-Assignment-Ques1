@@ -11,7 +11,7 @@ A peanut butter jelly sandwich comprises of peanut butter and jelly spread over 
     - [Ingredients](#ingredients)
     - [Method](#method)
 - [Peanut Butter at Home](#peanut-butter-at-home)
-- [Fresh Jelly at Home](#fres-jelly-at-home)
+- [Fresh Jelly at Home](#fresh-jelly-at-home)
 - [References](#references)
 
 ## Receipe
