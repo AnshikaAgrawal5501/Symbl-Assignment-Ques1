@@ -10,8 +10,8 @@ A peanut butter jelly sandwich comprises of peanut butter and jelly spread over 
 - [Receipe](#receipe)
     - [Ingredients](#ingredients)
     - [Method](#method)
-- [How to make Peanut Butter](#how-to-make-peanut-butter)
-- [How to make Jelly](#how-to-make-jelly)
+- [Peanut Butter at Home](#how-to-make-peanut-butter)
+- [Fresh Jelly at Home](#how-to-make-jelly)
 - [References](#references)
 
 ## Receipe
@@ -35,7 +35,7 @@ Preparation time – 5 mins
 4. Take the butter slice and hold it on top of the jelly slice. Flip it back for solid foundation and cut the sandwich diagonally.
 5. Peanut butter jelly sandwich is ready to serve.
 
-## How to make Peanut Butter
+## Peanut Butter at Home
 
 Preparation time – 10 mins
 ### Ingredients
@@ -72,7 +72,7 @@ Preparation time – 10 mins
     </p>
 6. Pour the paste out from the blender and now the peanut butter is ready to use.
 
-## How to make Jelly
+## Fresh Jelly at Home
 Preparation time – 10 mins and cooling 2-3 hours
 ### Ingredients
 |Item| Quantity|
