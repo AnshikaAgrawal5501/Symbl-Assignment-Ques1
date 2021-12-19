@@ -3,16 +3,16 @@
 A peanut butter jelly sandwich comprises of peanut butter and jelly spread over bread. Is is an easy and quick breakfast to make for bith parents as well as kids.
 
 <p align="center">
-    <img src="./images/peanut_butter_jelly_sandwich.jpg" width="200px">
+    <img src="./images/peanut_butter_jelly_sandwich.jpg" width="200px" height="130px">
 </p>
 
 ## Table of Contents
-- Receipe
-    - Ingredients
-    - Method
-- How to make Peanut Butter
-- How to make Jelly
-- References
+- [Receipe](#receipe)
+    - [Ingredients](#ingredients)
+    - [Method](#method)
+- [How to make Peanut Butter](#how-to-make-peanut-butter)
+- [How to make Jelly](#how-to-make-jelly)
+- [References](#references)
 
 ## Receipe
 
@@ -26,11 +26,11 @@ Preparation time – 5 mins
 1. Take two slices of bread. 
 2. Spread peanut butter on one and jelly on the other.
     <p align="center">
-        <img src="./images/peanut_butter_and_jelly.jpg" width="200px">
+        <img src="./images/peanut_butter_and_jelly.jpg" width="200px" height="130px">
     </p>
     [Note: Do not put butter on both slices or else the jelly will slide out having nothing to cling to.]
     <p align="center">
-        <img src="./images/split_jelly.png" width="200px">
+        <img src="./images/split_jelly.png" width="200px" height="130px">
     </p>
 4. Take the butter slice and hold it on top of the jelly slice. Flip it back for solid foundation and cut the sandwich diagonally.
 5. Peanut butter jelly sandwich is ready to serve.
@@ -49,28 +49,26 @@ Preparation time – 10 mins
 1. Take two cups of roasted peanuts. If you have not then -
     - Take normal peanuts in a pan and roast them until they turn golden brown and the skin starts to peel off.
     - Or preheat the oven to 350 F and place the raw peanuts in a baking pan. Now bake for 15 to 20 minutes, stirring once or twice during cooking, until the skins become loose and the peanuts are lightly golden.
-    <p align="center">
-        <img src="./images/roasted_peanuts.jpg" width="200px">
-    </p>
     - To remove the skin of roasted peanuts completely, take them in the palm and rub. You can also put them in a cloth and then rub it. If the skin is left then it will lead to a slightly bitter taste.
     <p align="center">
-        <img src="./images/skinless_peanuts.jpg" width="200px">
+        <img src="./images/roasted_peanuts.jpg" width="200px" height="130px">
+        <img src="./images/skinless_peanuts.jpg" width="200px" height="130px">
     </p>
 2. After the skin is peeled off, take the peanuts and put them in a blender and mix them until turns into a powder.
 <p align="center">
-        <img src="./images/powder_peanut.jpg" width="200px">
+        <img src="./images/powder_peanut.jpg" width="200px" height="130px">
     </p>
 3. Stop the blender and remove the powder from the sides and bottom of the blades. Again, blend it for few seconds until it starts turning to a thick paste.
 <p align="center">
-        <img src="./images/thick_paste.jpg" width="200px">
+        <img src="./images/thick_paste.jpg" width="200px" height="130px">
     </p>
 4. Now at this point, oil starts coming out from inside the peanuts. Add oil and honey, completely optional, and salt to the paste and mix well using a spatula. Again, start blending until the thick paste turns to thin one.
 <p align="center">
-        <img src="./images/sticky_paste.jpg" width="200px">
+        <img src="./images/sticky_paste.jpg" width="200px" height="130px">
     </p>
 5. Check ones again and mix the paste well. And finally blend for few more seconds till the paste becomes smooth.
 <p align="center">
-        <img src="./images/smooth_paste.jpg" width="200px">
+        <img src="./images/smooth_paste.jpg" width="200px" height="130px">
     </p>
 6. Pour the paste out from the blender and now the peanut butter is ready to use.
 
@@ -95,7 +93,15 @@ Preparation time – 10 mins and cooling 2-3 hours
 8. Leave the jelly to bring it down to the room temperature. And finally cool them in the refrigerator for 2-3 hours.
 9. Take out the jelly from refrigerator and now it is ready to use. 
 <p align="center">
-        <img src="./images/jelly.jpeg" width="200px">
+        <img src="./images/jelly.jpeg" width="200px" height="130px">
     </p>
 
 ## References
+
+- [Peanut Butter Jelly Sandwich](https://www.youtube.com/watch?v=N9GxhnKO9aA)
+- [Peanut Butter](https://www.youtube.com/watch?v=a7Cb9ne-w2M)
+- [Jelly from Fresh Fruits](https://www.youtube.com/watch?v=ksssM0T163A)
+- [Jelly from Essance](https://www.youtube.com/watch?v=V_7vjw4CDMM)
+- [Fruits Suggestions for Jelly](https://www.masterclass.com/articles/how-to-make-easy-homemade-jelly-basic-jelly#what-fruits-can-you-jelly)
+- [Tips for Perfect Jelly](https://www.masterclass.com/articles/how-to-make-easy-homemade-jelly-basic-jelly#3-tips-for-making-perfect-homemade-jelly)
+- [Flavour Combinations for Jelly](https://www.masterclass.com/articles/how-to-make-easy-homemade-jelly-basic-jelly#3-flavor-combinations-for-homemade-jelly)
